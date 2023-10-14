@@ -11,7 +11,7 @@ loc = ['Guilin, China', 'Dissen, Germany', 'Guatemala City, Guatemala', 'Kanduku
           'Grimesland, North Carolina',	'Visalia, California',	'Colonia del Sacramento, Uruguay']
 
 # API Key
-api_key = 'a57947c9337b95fac4ae60855dd59760'
+api_key = 'key'
 cities_temp = []
 
 # lat long and api output for all locations
